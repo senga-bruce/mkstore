@@ -8,7 +8,7 @@
 <body>
     <div class="welcome container-fluid">
         <h1 class="container pt-5 text-light">
-            <span class="one badge badge-primary">MK</span>
+            <span class="one badge badge-primary">MK,</span>
             <span class="two mt-1">Stores</span>
         </h1>
         <div class="links p-3">
